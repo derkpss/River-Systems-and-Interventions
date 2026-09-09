@@ -45,6 +45,7 @@ parts:
   - caption: Miscellaneous
     chapters: 
     - external: https://github.com/TUDelft-MUDE/book/blob/2024/book/numerical_methods/overview.md
+    - external: https://github.com/TeachBooks/manual/blob/release/book/intro/book.md
     chapters:
     - file: references.md
     - file: changelog.md
