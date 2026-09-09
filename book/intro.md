@@ -1,8 +1,4 @@
 (intro)=
-# Welcome to the Template Book
+# Welcome to the Rivers Book
 
-_This is the first page the student will see when opening the url._
-
-This book can be used as a template for other books. It includes a starter package of the software developed by the TeachBooks initiative and some exercises to get you going!
-
-Hi this is my first commit!! :D
+This is still a work in progress, but will eventually become the online book to accompany the unit 'River Systems and Interventions' of the Hydraulic Engineering track at the Technical University of Delft.
