@@ -1,4 +1,4 @@
-This is a new issue
+# The Law of Chezy
 
 The law of Chezy is well known:
 
