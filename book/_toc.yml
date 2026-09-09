@@ -44,8 +44,8 @@ parts:
       - file: extension_exercises/016.md
   - caption: Miscellaneous
     chapters: 
+    - external: https://github.com/TUDelft-MUDE/book/blob/2024/book/numerical_methods/overview.md
     - file: references.md
     - file: changelog.md
     - file: credits.md
   
-  - external: https://github.com/TUDelft-MUDE/book/blob/2024/book/numerical_methods/overview.md
