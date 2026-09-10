@@ -15,7 +15,7 @@ text
 
 #### Heading
 ##### Smaller Heading
-###### Smallest Heading
+###### Figure
 
 
 ```{figure} figures/Bangladesh.png
@@ -24,5 +24,9 @@ width: 80%
 align: center
 ---
 <caption text>
+```
+
+###### Video
+```{video} https://www.youtube.com/watch/B1J6Ou4q8vE
 ```
 
