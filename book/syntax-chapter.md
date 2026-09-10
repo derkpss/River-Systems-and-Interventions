@@ -16,3 +16,11 @@ text
 #### Heading
 ##### Smaller Heading
 ###### Smallest Heading
+
+```{figure} figures/Bangladesh.png
+---
+width: 80%
+align: center
+---
+<caption text>
+```
