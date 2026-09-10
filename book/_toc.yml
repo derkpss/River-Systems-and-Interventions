@@ -14,6 +14,7 @@ parts:
       - file: some_content/text_and_code.ipynb
       - file: file_to_be_added_to_toc.md
       - file: file_in_new_issue.md
+      - file: syntax-chapter.md
   - caption: Teachbooks Exercises
     chapters:
     - file: exercises.md
