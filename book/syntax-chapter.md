@@ -2,7 +2,7 @@
 text
 
 ## Section Title 1
-text
+You can find information on Chezy's law on [this page](book/file_in_new_issue.md)
 
 ## Section Title 2
 text
