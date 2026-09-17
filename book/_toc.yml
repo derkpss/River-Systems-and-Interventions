@@ -9,13 +9,13 @@ parts:
     style: numerical                # Default value (line can be removed), style of numbering for this part, configuration part of TeachBooks' version of sphinx-external-toc (https://github.com/TeachBooks/sphinx-external-toc?tab=readme-ov-file#toc-tree-options)
     restart_numbering: false        # Default value (line can be removed), whether to restart numbering for this part, configuration part of TeachBooks' version of sphinx-external-toc (https://github.com/TeachBooks/sphinx-external-toc?tab=readme-ov-file#toc-tree-options)
     chapters:
-    - file: book/river-systems-and-interventions/A-1-river-systems-and-classification.md
-      sections: book/river-systems-and-interventions/A-1-assignment.md
-    - file: book/river-systems-and-interventions/A-2-catchment-hydrology
-    - file: book/river-systems-and-interventions/A-3-river-basin-hydrology.md
-    - file: book/river-systems-and-interventions/B-1-national-and-international-river-management.md
-    - file: book/river-systems-and-interventions/B-2-flood-risk-management.md
-    - file: book/river-systems-and-interventions/B-3-inland-navigation.md
+    - file: book/The-Rivers-Book/A-1-river-systems-and-classification.md
+      sections: book/The-Rivers-Book/A-1-assignment.md
+    - file: book/The-Rivers-Book/A-2-catchment-hydrology
+    - file: book/The-Rivers-Book/A-3-river-basin-hydrology.md
+    - file: book/The-Rivers-Book/B-1-national-and-international-river-management.md
+    - file: book/The-Rivers-Book/B-2-flood-risk-management.md
+    - file: book/The-Rivers-Book/B-3-inland-navigation.md
   - caption: Teachbooks Exercises
     chapters:
     - file: exercises.md
