@@ -11,12 +11,12 @@ parts:
     chapters:
     - file: book/The-Rivers-Book/A-1-river-systems-and-classification.md
       sections: 
-      - file: book/The-Rivers-Book/A-1-assignment.md
-    - file: book/The-Rivers-Book/A-2-catchment-hydrology.md
-    - file: book/The-Rivers-Book/A-3-river-basin-hydrology.md
-    - file: book/The-Rivers-Book/B-1-national-and-international-river-management.md
-    - file: book/The-Rivers-Book/B-2-flood-risk-management.md
-    - file: book/The-Rivers-Book/B-3-inland-navigation.md
+      - file: book/river-systems-and-interventions/A-1-assignment.md
+    - file: book/river-systems-and-interventions/A-2-catchment-hydrology.md
+    - file: book/river-systems-and-interventions/A-3-river-basin-hydrology.md
+    - file: book/river-systems-and-interventions/B-1-national-and-international-river-management.md
+    - file: book/river-systems-and-interventions/B-2-flood-risk-management.md
+    - file:book/river-systems-and-interventionsB-3-inland-navigation.md
   - caption: Teachbooks Exercises
     chapters:
     - file: exercises.md
