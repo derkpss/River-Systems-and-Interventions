@@ -16,7 +16,7 @@ parts:
     - file: book/river-systems-and-interventions/A-3-river-basin-hydrology.md
     - file: book/river-systems-and-interventions/B-1-national-and-international-river-management.md
     - file: book/river-systems-and-interventions/B-2-flood-risk-management.md
-    - file:book/river-systems-and-interventionsB-3-inland-navigation.md
+    - file: book/river-systems-and-interventions/B-3-inland-navigation.md
   - caption: Teachbooks Exercises
     chapters:
     - file: exercises.md
