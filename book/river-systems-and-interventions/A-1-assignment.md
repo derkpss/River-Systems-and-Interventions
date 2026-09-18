@@ -3,3 +3,9 @@
 
 [Watch the demo video](audio/Why_Rhine_River_Engineering_Makes_Things_Steeper.mp4)
 
+# Assignment 2
+
+<video controls width="80%">
+  <source src="audio/7conclusions.mp4" type="video/mp4">
+  Your browser does not support HTML video.
+</video>
