@@ -5,7 +5,9 @@
 
 # Assignment 2
 
+# A-1 Assignment
+
 <video controls width="80%">
-  <source src="audio/7conclusions.mp4" type="video/mp4">
+  <source src="../../_static/7conclusions.mp4" type="video/mp4">
   Your browser does not support HTML video.
 </video>
